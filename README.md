@@ -9,7 +9,7 @@ To run the app add your API keys in the Constants.java file.
 <br>
 <br>
 <p>
-<img hspace="20" src="s1.png" width="250px"/> 
-<img hspace="20" src="s2.png" width="250px"/> 
-<img src="s3.png" width="250px"/>
+<img hspace="10" src="s1.png" width="250px"/> 
+<img hspace="10" src="s2.png" width="250px"/> 
+<img hspace="10" src="s3.png" width="250px"/>
 </p>
