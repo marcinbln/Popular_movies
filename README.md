@@ -8,5 +8,6 @@ To run the app add your API keys in the Constants.java file.
 * Room database for the offline mode
 <br>
 <br>
-<p>
-<img src="s1.png" width="250px"/><img src="s2.png" width="250px"/><img src="s3.png" width="250px"/></p>
+<p hspace="20">
+<img src="s1.png" width="250px" margin-right: 15px/> <img src="s2.png" width="250px"/> <img src="s3.png" width="250px"/></p>
+<img style="float: left; margin-right: 15px;" src="s1.png" width="500">
