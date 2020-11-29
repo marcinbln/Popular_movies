@@ -9,5 +9,4 @@ To run the app add your API keys in the Constants.java file.
 <br>
 <br>
 <p hspace="20">
-<img src="s1.png" width="250px"  style="margin-right: 50px"/> <img src="s2.png" width="250px"/> <img src="s3.png" width="250px"/></p>
-<img style="float: left; margin-right: 15px;" src="s1.png" width="500">
+<img style="margin-right: 50px;" src="s1.png" width="250px"  /> <img src="s2.png" width="250px"/> <img src="s3.png" width="250px"/></p>
