@@ -4,8 +4,9 @@ App project for Udacity Android Developer Nanodegree course
 
 * Fetch data using the  <a href="https://www.themoviedb.org" target="_blank">TMDB API</a>
 * Infinite scrolling with Paging Library
-* Room database for offline mode
+* Room database for the offline mode
 <br>
-To run the app add your API keys in the Constants.java
-
-<img src="s1.png" width="600px"/>
+To run the app add your API keys in the Constants.java file.
+<br>
+<br>
+<img src="s1.png" width="360px"/>
