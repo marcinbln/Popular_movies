@@ -8,5 +8,4 @@ App project for Udacity Android Developer Nanodegree course
 <br>
 To run the app add your API keys in the Constants.java
 
-![](/s1.png?s=200 "Screenshot")
-<img src="s1.pngf" width="600px"/>
+<img src="s1.png" width="600px"/>
