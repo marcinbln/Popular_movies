@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="padding_cl">8dp</dimen>
+    <dimen name="text_size_date">18sp</dimen>
+    <dimen name="text_size_title">30sp</dimen>
+    <dimen name="text_size_section_header">16sp</dimen>
+    <dimen name="padding_card">350dp</dimen>
+    <dimen name="icons_height">40dp</dimen>
+    <dimen name="margin_start">8dp</dimen>
+    <dimen name="margin_start_favourites">24dp</dimen>
+    <dimen name="margin_start_score">24dp</dimen>
+    <dimen name="text_size_score">30sp</dimen>
+    <dimen name="margin_divider">8dp</dimen>
+    <dimen name="default_text_size">18sp</dimen>
+    <dimen name="margin_reviews_header">16dp</dimen>
+    <dimen name="reviews_height">500dp</dimen>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:foregroundGravity="center_vertical|center"
+    android:gravity="center">
+
+
+    <ImageView
+        android:id="@+id/poster_offline"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/movie_poster"
+        android:scaleType="fitCenter"
+        android:src="@drawable/baseline_cloud_off_24" />
+
+    <TextView
+        android:id="@+id/no_poster_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom|center"
+        android:paddingBottom="24dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        tools:visibility="visible" />
+
+
+</RelativeLayout>

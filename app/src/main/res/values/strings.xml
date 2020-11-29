@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Popular movies</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="movie_poster">movie_poster</string>
+    <string name="favourites">Favourites</string>
+
+    <string name="not_liked">not_liked</string>
+    <string name="title_activity_favourites">FavouritesActivity</string>
+    <string name="favourites_activity_title">Favourites</string>
+    <string name="most_popular_activity_title">Most popular movies</string>
+    <string name="top_rated_activity_title">Top rated movies</string>
+    <string name="play_trailer">Play \ntrailer</string>
+    <string name="play_trailer_icon">play_trailer_icon</string>
+    <string name="add_to_nfavourites">Add to  \nfavourites</string>
+    <string name="add_to_favourites_icon">add_to_favourites_icon</string>
+    <string name="user_nscore">User  \nScore</string>
+    <string name="reviews">Reviews</string>
+    <string name="overview_header">Overview</string>
+    <string name="trailer">Trailer</string>
+    <string name="favourites_empty_subtitle">Like some movies to save them here</string>
+    <string name="plot_synopsis_placeholder">After losing his wife seven years earlier, the eccentric Dr. John Dolittle, famed doctor and veterinarian of Queen Victoria’s England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen falls gravely ill, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure, regaining his wit and courage as he crosses old adversaries and discovers wondrous creatures.</string>
+    <string name="reviews_collapsed">reviews_collapsed</string>
+    <string name="offline_message">You are offline</string>
+    <string name="no_movies_to_show">No movies to show</string>
+    <string name="check_your_internet_connection">Check your internet connection, \n \n then pull to refresh.</string>
+    <string name="no_reviews">No reviews</string>
+    <string name="author">Author:</string>
+    <string name="expand_icon">expand_icon</string>
+    <string name="date">01-01-2019</string>
+</resources>
