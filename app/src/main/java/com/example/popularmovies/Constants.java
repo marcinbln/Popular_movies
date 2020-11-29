@@ -13,9 +13,10 @@ public class Constants {
     public static final String REVIEWS_EXPANDED = "reviews_expanded";
 
     public static final int NUM_COLUMNS = 2;
-
-    public static final String THEMOVIEDB_API_KEY = "0b3ce5af7a59624ccb1b7d52541986a8";
-    public static final String YOUTUBE_API_KEY = "0b3ce5af7a59624ccb1b7d52541986a8";
+  
+    // To run the app insert your API keys for the below two variables
+    public static final String THEMOVIEDB_API_KEY = "your_key";
+    public static final String YOUTUBE_API_KEY = "your_key";
 
 
 }
