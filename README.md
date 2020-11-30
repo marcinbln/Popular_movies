@@ -6,6 +6,7 @@ To run the app add your API keys in the Constants.java file.
 * Fetch data using the  <a href="https://www.themoviedb.org" target="_blank">TMDB API</a>
 * Infinite scrolling with Paging Library
 * Room database for the offline mode
+* Libraries : Glide
 <br>
 <br>
 <p>
