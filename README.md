@@ -3,7 +3,7 @@
 App project for Udacity Android Developer Nanodegree course <br>
 To run the app add your API keys in the Constants.java file.
 
-### Features:
+### Overview:
 * Browse most popular/highest rated movies, watch trailers, read reviews and add to favourites
 * Fetch data using the  <a href="https://www.themoviedb.org" target="_blank">TMDb API</a>
 * Infinite scrolling with Paging Library
