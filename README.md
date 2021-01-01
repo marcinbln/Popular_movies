@@ -1,6 +1,6 @@
 # Popular_movies
 
-App project for Udacity Android Developer Nanodegree course <br>
+Android App project for Udacity Android Developer Nanodegree course <br>
 To run the app add your API keys in the Constants.java file.
 
 ### Overview:
